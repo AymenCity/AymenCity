@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-[![📊 Stats](https://github-readme-stats.vercel.app/api?username=AymenCity)](https://github.com/AymenCity/github-readme-stats)
+[![Profile Views](https://komarev.com/ghpvc/?username=AymenCity&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AymenCity)
 
-![💻 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AymenCity&layout=compact)
+## [Portfolio](https://aymencity.github.io/)
+
+## [LinkedIn](https://www.linkedin.com/in/aymen-s/)
+
+
